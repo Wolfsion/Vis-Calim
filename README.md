@@ -12,7 +12,7 @@
 对应数据为`acc_restore_path_cifar100.csv`，图例，数据文件读取和内容同图2。
 
 
-## 图4-a resnet56-cifar10 随机数据剪枝精度恢复图 图4-b mobilnetv2-cifar100 随机数据剪枝精度恢复图 *
+## 图4-a resnet56-cifar10 随机数据剪枝精度恢复图 图4-b mobilnetv2-cifar100 随机数据剪枝精度恢复图
 子图a对应数据为`resnet56_random_loss.csv`，图例为`random.png`。
 数据内容为数据内容为损失-轮次-算法类型。
 
@@ -31,4 +31,3 @@
 
 ## 图8 ucm-mobilenetv2-Shards Non-IID划分联邦学习精度图
 对应数据为`mobilenetv2-ucm-shards-acc.csv`，图例，数据文件读取和内容同图2。
-
