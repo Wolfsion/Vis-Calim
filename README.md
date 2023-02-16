@@ -38,4 +38,4 @@
 
 ## 图10 Shards Non-IID划分数据分布图
 对应数据为`shards.csv`，图例参考overleaf中图5
-数据文件需要调用pandas.read_csv()读取，数据内容为度量值-所处卷积层-算法类型。
+数据文件需要调用pd.read_csv(csv_file,header=1)读取，数据内容为度量值-所处卷积层-算法类型。
