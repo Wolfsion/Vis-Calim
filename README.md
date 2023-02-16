@@ -31,3 +31,11 @@
 
 ## 图8 ucm-mobilenetv2-Shards Non-IID划分联邦学习精度图  --- Figure.11b
 对应数据为`mobilenetv2-ucm-shards-acc.csv`，图例，数据文件读取和内容同图2。
+
+## 图9 Dirichlet Non-IID划分数据分布图
+对应数据为`hetero.csv`，图例参考overleaf中图4
+数据文件需要调用pd.read_csv(csv_file,header=1)读取，数据内容为各个节点所存储的数据类型所占比例和总数。
+
+## 图10 Shards Non-IID划分数据分布图
+对应数据为`shards.csv`，图例参考overleaf中图5
+数据文件需要调用pandas.read_csv()读取，数据内容为度量值-所处卷积层-算法类型。
