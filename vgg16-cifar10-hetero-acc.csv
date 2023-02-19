@@ -1,4 +1,4 @@
-,Acc,Epoch,Method
+,Test Accuracy,Round,Method
 0,27.708333333333332,10,fedavg
 1,54.739583333333336,20,fedavg
 2,59.270833333333336,30,fedavg
